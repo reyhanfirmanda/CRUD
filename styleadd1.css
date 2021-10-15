@@ -1,0 +1,14 @@
+body{
+	background: url(https://vectorgrove.com/images/banner.jpg);
+	/*background-repeat: no-repeat;*/
+	background-size: cover;	
+
+	font-size: 30px;
+
+	font-family: 'Poppins', sans-serif;
+
+	text-align: center;
+
+	color: #162a30;
+
+}
